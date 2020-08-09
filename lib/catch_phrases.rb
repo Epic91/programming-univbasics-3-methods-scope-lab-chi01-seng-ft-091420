@@ -4,7 +4,8 @@ def mario
   puts phrase
 end
 
-phrase
+mario
+
 def toadstool
   puts status
 end
